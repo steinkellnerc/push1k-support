@@ -1,4 +1,5 @@
 Push1k Support & Privacy
+
 Welcome to the official repository for Push1k. We are dedicated to helping you master the push-up through advanced AI tracking.
 
 🛠 Support & Contact
@@ -16,6 +17,7 @@ Data Sync: We use secure Apple/Google authentication to sync your rep counts and
 Data Deletion: To request the deletion of your account and fitness data, please email us at the address above with your User ID.
 
 🚀 About Push1k
+
 Push1k is the ultimate push-up challenge app.
 
 Hands-free counting via computer vision.
@@ -23,3 +25,5 @@ Hands-free counting via computer vision.
 Daily streaks to build consistency.
 
 Global leaderboards to compete with the best.
+
+https://push1k.com/
