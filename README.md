@@ -26,4 +26,4 @@ Daily streaks to build consistency.
 
 Global leaderboards to compete with the best.
 
-https://push1k.com/
+https://push1k.myndsurf.com/
